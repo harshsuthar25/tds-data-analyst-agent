@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+pandas
+numpy
+matplotlib
+beautifulsoup4
+requests
+python-multipart
+gunicorn
